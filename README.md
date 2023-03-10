@@ -1,10 +1,9 @@
 ## 👋 Hello World!
 
-<--
+
 - 🔭 I’m currently working on Python,Django,Rest-Fraework,PostgrSQL
 - 🌱 I’m currently learning Docker
 - 💬 Ask me about ...
--->
 
 I am a 17 year old engineer from Tashkent, Uzbekistan and I'm passionate about technology, communities, and everything in-between. I've worked on Back-end Development. I love to learn and contribute in any and every possible way. 
 
